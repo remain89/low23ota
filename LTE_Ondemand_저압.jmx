@@ -75,9 +75,9 @@
             <stringProp name="8898899">thinktime2</stringProp>
           </collectionProp>
           <collectionProp name="UserParameters.thread_values">
-            <collectionProp name="-1653474062">
-              <stringProp name="0"></stringProp>
-              <stringProp name="0"></stringProp>
+            <collectionProp name="13884058">
+              <stringProp name="92668751">admin</stringProp>
+              <stringProp name="1509442">1234</stringProp>
               <stringProp name="-206503345">359334070002522</stringProp>
               <stringProp name="976271540">01220884779</stringProp>
               <stringProp name="840133667">112.136.247.178</stringProp>
